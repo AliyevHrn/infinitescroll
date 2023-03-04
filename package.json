@@ -1,0 +1,19 @@
+{
+  "name": "infinitescroll",
+  "version": "1.0.0",
+  "description": "test task by developing infinite scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliyevHrn/infinitescroll.git"
+  },
+  "author": "Harun Aliyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliyevHrn/infinitescroll/issues"
+  },
+  "homepage": "https://github.com/AliyevHrn/infinitescroll#readme"
+}
